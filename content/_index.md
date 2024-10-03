@@ -1,5 +1,5 @@
 ---
-title: 'Carrefour de la Liberté'
+title: 'Au carrefour de la Liberté'
 description: "Collectif de Chennevières"
 cascade:
   featured_image: '/images/main.jpg'
